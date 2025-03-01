@@ -14,10 +14,7 @@ MENTOR: NEELA SANTOSH
 
 OUTPUT:
 
-
-
-
-
+<img width="581" alt="Image" src="https://github.com/user-attachments/assets/e648a3da-3925-47f9-a78e-84f72f9a07b3" />
 
 
 # SimpleNLTKChatbot
